@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+About this site
+
+### これはyuuukaが書いています。
+#### `quarto preview mysite`コマンドを実行してqmdファイルを編集して保存すると自動で更新されます。
+- 標準のstyleはcosmoですが、styleは全部で25種類あります。
+- slateに変えてみました。

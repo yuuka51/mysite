@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nこれはyuuukaが書いています。\n\nquarto preview mysiteコマンドを実行してqmdファイルを編集して保存すると自動で更新されます。\n\n標準のstyleはcosmoですが、styleは全部で25種類あります。\nslateに変えてみました。"
+  },
+  {
+    "objectID": "index.html#これはyuuukaが作成しています",
+    "href": "index.html#これはyuuukaが作成しています",
+    "title": "Mysite",
+    "section": "これはyuuukaが作成しています。",
+    "text": "これはyuuukaが作成しています。"
+  }
+]
